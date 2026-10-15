@@ -1,0 +1,97 @@
+ ## What is GitLab?
+
+GitLab Announces the General Availability of GitLab Duo
+
+GitLab is a platform that helps developers store code, track changes, collaborate with teammates, test applications, and deploy software.
+
+GitLab uses Git, a version control system, to manage source code. It is similar to GitHub.
+
+## What can you do with GitLab?
+
+GitLab 16.11 release notes | GitLab Docs
+
+1. Git repository management
+
+Store project files and code, maintain version history, and track changes.
+
+Allspice Gitlab at Susan Hurst blog
+
+2. Team collaboration
+
+Use branches, commits, merge requests, and code reviews to work together.
+
+Building Your First GitLab Pipeline: A Step-by-Step Tutorial🚀🚀🚀 - DEV Community
+
+3. CI/CD pipelines
+
+Automatically build, test, and deploy applications whenever code changes.
+
+GitLab vs. GitHub: Which is Better in 2026?
+
+4. Project management
+
+Track bugs, create tasks, assign work, and monitor project progress.
+
+## Important GitLab terms
+
+| Term | Meaning |
+| --- | --- |
+| Repository | Where your code and its history are stored |
+| Commit | A saved snapshot of code changes |
+| Branch | An independent line of development |
+| Merge request | A request to review and merge code changes |
+| GitLab Runner | A program that executes CI/CD jobs |
+| Pipeline | Automated steps for building, testing, and deploying code |
+| `.gitlab-ci.yml` | The file that defines a GitLab CI/CD pipeline |
+
+## How GitLab works
+
+Developer writes code
+
+Git commit and push
+
+GitLab repository
+
+CI/CD pipeline runs tests
+
+Deploy the application
+
+## GitLab vs. GitHub
+
+| Feature | GitLab | GitHub |
+| --- | --- | --- |
+| Code hosting | Yes | Yes |
+| Git version control | Yes | Yes |
+| CI/CD | GitLab CI/CD | GitHub Actions |
+| Merge requests / pull requests | Merge requests | Pull requests |
+| Project management | Yes | Yes |
+
+Both platforms are widely used. GitLab is especially known for bringing source code management and DevSecOps workflows together in one platform.
+
+## What would you like to learn about GitLab?
+
+Choose a topic to get a focused explanation.
+
+Git and GitLab basics
+
+CI/CD GitLab CI/CD pipelines
+
+GitLab for DevOps engineers
+
+Git commands used with GitLab
+
+Installing and setting up GitLab
+
+GitLab interview questions
+
+Your experience level
+
+Beginner Beginner
+
+Intermediate
+
+Advanced
+
+ Learn this topic
+
+You can also start with the official website: [GitLab.com](<https://about.gitlab.com/>).
